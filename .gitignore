@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.local
+.env.*
+
+# MacOS
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Private keys or local data
+*.key
+*.pem
+.env
+.env
